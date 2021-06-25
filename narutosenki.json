@@ -1,0 +1,47 @@
+{
+  "name": "NARUTOSENKI.COM",
+  "short_name": "NARUTOSENKI.COM",
+  "start_url": "https://www.narutosenki.com",
+  "display": "standalone",
+   "background_color": "#FFFFFF",
+  "theme_color": "#97C03D",
+  "description": "Blog tentang Naruto Senki Mod Apk terbaru, full character, unlimited coin, mod darah, dan lainnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-G3_U6tAAALo/YNUnLtrIjGI/AAAAAAAABKY/Ws-pIPZushskG0Q25uMStV44B0oARSc2ACLcBGAsYHQ/s0/36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hUbbOhSGXGI/YNUnMlyPceI/AAAAAAAABKk/SsBsRLKVQ5wO5jUmETTVNY2XFmAcrawKwCLcBGAsYHQ/s0/48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WJzWHySX4Gg/YNUnM-Y6VRI/AAAAAAAABKs/Z68XEY8zTzwJgJNgDtdLfGqtvMwy1ysKQCLcBGAsYHQ/s0/72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-wnohB-HKEcg/YNUnNltsAeI/AAAAAAAABKw/nGJgw25KxacSGBNqBBhDBiIBXhh6MLUxQCLcBGAsYHQ/s0/96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HYU4OCcndMY/YNUnLhIRNmI/AAAAAAAABKc/_r9yGSyPe001XmVzpLuJvJ73sfYhtdnhgCLcBGAsYHQ/s0/144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xseLG5SNsf4/YNUnLserGnI/AAAAAAAABKg/c9rRvSj7TMwxxcrpWdXDRAcTFZU4PTvRwCLcBGAsYHQ/s0/192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9eSODel34ec/YNUnM1Owv1I/AAAAAAAABKo/yhMIe23pxb8OALa8yRSyHDjxD8zr87_pQCLcBGAsYHQ/s16000/512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
+ 
+ 
